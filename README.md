@@ -1,4 +1,4 @@
-# Sipersonic NACA 2412 Airfoil Analysis
+# Supersonic NACA 2412 Airfoil Analysis
 
 ## :airplane: ERAU AE308 :airplane:
 
